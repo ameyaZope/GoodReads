@@ -6,3 +6,4 @@ Following is the list of good reads
 
 1. Build your own X - https://github.com/danistefanovic/build-your-own-x
 2. System Design Interview Questions and Answer - https://bowenli86.github.io/categories/system-design/
+3. Hive Random Sampling - https://hadoopsters.com/how-random-sampling-in-hive-works-and-how-to-use-it-7cdb975aa8e2
